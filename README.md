@@ -1,4 +1,6 @@
 chmod +x cf-v4-ddns.sh
+
+
 ./cf-v4-ddns.sh
 
 
